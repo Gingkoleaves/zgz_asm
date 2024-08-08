@@ -1,0 +1,17 @@
+download	masm10.0
+
+masm f2.asm
+
+D:\MASM10.0\ML   /coff /c f2.asm
+
+
+create project in vs2022
+
+add f0.c
+add f1.c
+
+
+add f2.obj
+
+
+run

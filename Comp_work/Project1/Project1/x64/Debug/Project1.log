@@ -1,0 +1,5 @@
+﻿  f0.c
+  f1.c
+  正在生成代码...
+D:\Comp_work\Project1\Project1\f0.c(5,2): warning C4013: “printf”未定义；假设外部返回 int
+..\..\F2.obj : fatal error LNK1112: 模块计算机类型“x86”与目标计算机类型“x64”冲突
